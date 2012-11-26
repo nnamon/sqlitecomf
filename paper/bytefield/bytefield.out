@@ -1,0 +1,50 @@
+\BOOKMARK [1][-]{section.1}{1 Introduction}{}
+\BOOKMARK [1][-]{section.2}{2 Usage}{}
+\BOOKMARK [2][-]{subsection.2.1}{2.1 A first example}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{2.2 Basic commands}{section.2}
+\BOOKMARK [2][-]{subsection.2.3}{2.3 Formatting options}{section.2}
+\BOOKMARK [2][-]{subsection.2.4}{2.4 Common tricks}{section.2}
+\BOOKMARK [2][-]{subsection.2.5}{2.5 Not-so-common tricks}{section.2}
+\BOOKMARK [2][-]{subsection.2.6}{2.6 Putting it all together}{section.2}
+\BOOKMARK [2][-]{subsection.2.7}{2.7 Upgrading from older versions}{section.2}
+\BOOKMARK [1][-]{section.3}{3 Implementation}{}
+\BOOKMARK [2][-]{subsection.3.1}{3.1 Required packages}{section.3}
+\BOOKMARK [2][-]{subsection.3.2}{3.2 Utility macros}{section.3}
+\BOOKMARK [2][-]{subsection.3.3}{3.3 Top-level environment}{section.3}
+\BOOKMARK [2][-]{subsection.3.4}{3.4 Box-drawing macros}{section.3}
+\BOOKMARK [3][-]{subsubsection.3.4.1}{3.4.1 Drawing \(proper\)}{subsection.3.4}
+\BOOKMARK [3][-]{subsubsection.3.4.2}{3.4.2 Parsing arguments}{subsection.3.4}
+\BOOKMARK [2][-]{subsection.3.5}{3.5 Skipped words}{section.3}
+\BOOKMARK [2][-]{subsection.3.6}{3.6 Bit-position labels}{section.3}
+\BOOKMARK [2][-]{subsection.3.7}{3.7 Word labels}{section.3}
+\BOOKMARK [3][-]{subsubsection.3.7.1}{3.7.1 Curly-brace manipulation}{subsection.3.7}
+\BOOKMARK [3][-]{subsubsection.3.7.2}{3.7.2 Right-side labels}{subsection.3.7}
+\BOOKMARK [3][-]{subsubsection.3.7.3}{3.7.3 Left-side labels}{subsection.3.7}
+\BOOKMARK [3][-]{subsubsection.3.7.4}{3.7.4 Scratch space}{subsection.3.7}
+\BOOKMARK [2][-]{subsection.3.8}{3.8 Compatibility mode}{section.3}
+\BOOKMARK [2][-]{subsection.3.9}{3.9 Option processing}{section.3}
+\BOOKMARK [1][-]{section.4}{4 Future work}{}
+\BOOKMARK [1][-]{glossary1.1}{Change History}{}
+\BOOKMARK [1][-]{index2.1}{Index}{}
+\BOOKMARK [2][-]{HD.Symbols.2}{Symbols}{index2.1}
+\BOOKMARK [2][-]{HD.A.2}{A}{index2.1}
+\BOOKMARK [2][-]{HD.B.2}{B}{index2.1}
+\BOOKMARK [2][-]{HD.C.2}{C}{index2.1}
+\BOOKMARK [2][-]{HD.D.2}{D}{index2.1}
+\BOOKMARK [2][-]{HD.E.2}{E}{index2.1}
+\BOOKMARK [2][-]{HD.F.2}{F}{index2.1}
+\BOOKMARK [2][-]{HD.G.2}{G}{index2.1}
+\BOOKMARK [2][-]{HD.H.2}{H}{index2.1}
+\BOOKMARK [2][-]{HD.I.2}{I}{index2.1}
+\BOOKMARK [2][-]{HD.K.2}{K}{index2.1}
+\BOOKMARK [2][-]{HD.L.2}{L}{index2.1}
+\BOOKMARK [2][-]{HD.M.2}{M}{index2.1}
+\BOOKMARK [2][-]{HD.N.2}{N}{index2.1}
+\BOOKMARK [2][-]{HD.O.2}{O}{index2.1}
+\BOOKMARK [2][-]{HD.P.2}{P}{index2.1}
+\BOOKMARK [2][-]{HD.R.2}{R}{index2.1}
+\BOOKMARK [2][-]{HD.S.2}{S}{index2.1}
+\BOOKMARK [2][-]{HD.T.2}{T}{index2.1}
+\BOOKMARK [2][-]{HD.U.2}{U}{index2.1}
+\BOOKMARK [2][-]{HD.V.2}{V}{index2.1}
+\BOOKMARK [2][-]{HD.W.2}{W}{index2.1}

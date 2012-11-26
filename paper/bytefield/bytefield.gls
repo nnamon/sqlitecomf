@@ -1,0 +1,45 @@
+
+ \begin{theglossary} 
+
+    \makeatletter\scan@allowedfalse
+
+  \item v1.0\efill 
+ \subitem General:\ Initial version\pfill \hdpindex{}{1}
+  \item v1.1\efill 
+ \subitem General:\ Restructured the \texttt  {.dtx} file\pfill \hdpindex{}{1}
+    \subitem \verb*+\allocationnumber+:\ Bug fix: Added \cs  {bf@newdimen} to greatly reduce the likelihood of ``\texttt  {No room for a new \cs  {dimen}}'' errors (reported by Vitaly A. Repin)\pfill 
+		\hdpindex{}{26}
+    \subitem \verb*+\bf@parse@range@list+:\ Bug fix: Swapped order of arguments to \texttt  {\bslash ifx} test (suggested by Hans-Joachim Widmaier)\pfill 
+		\hdpindex{}{32}
+  \item v1.2\efill 
+ \subitem \verb*+\curly@box+:\ Bug fix: Defined \cs  {curly@box} globally (suggested by Stefan Ulrich)\pfill 
+		\hdpindex{}{34}
+  \item v1.2a\efill 
+ \subitem General:\ Specified an explicit package date when loading the \pkgname  {calc} package to avoid loading an outdated version. Thanks to Kevin Quick for discovering that outdated versions of \pkgname  {calc} are still being included in T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {} distributions.\pfill 
+		\hdpindex{}{26}
+  \item v1.3\efill 
+ \subitem \verb*+\bf@newdimen+:\ Added support for $\varepsilon $-T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m 's larger local \meta  {dimen} pool (code provided by Heiko Oberdiek)\pfill 
+		\hdpindex{}{27}
+  \item v1.4\efill 
+ \subitem General:\ Made assignments to \cs  {counting@words} global to prevent vertical-spacing problems with back-to-back word groups (bug fix due to Steven R. King)\pfill 
+		\hdpindex{}{1}
+      \subsubitem Split \cs  {curlyspace}, \cs  {labelspace}, and \cs  {curlyshrinkage} into \texttt  {left} and \texttt  {right} versions\pfill 
+		\hdpindex{}{1}
+    \subitem \verb*+\bf@bitformatting+:\ Introduced this macro at Steven R. King's request to enable users to alter the bit header's font size\pfill 
+		\hdpindex{}{28}
+  \item v2.0\efill 
+ \subitem General:\ Made a number of non-backwards-compatible changes, including replacing \cs  {wordgroupr} and \cs  {endwordgroupr} with a \texttt  {rightwordgroup} environment and \cs  {wordgroupl} and \cs  {endwordgroupl} with a \texttt  {leftwordgroup} environment and also replacing a slew of user-visible lengths and macros with a single \cs  {bytefieldsetup} macro\pfill 
+		\hdpindex{}{1}
+    \subitem \verb*+\bytefieldsetup+:\ Introduced this macro to provide a more convenient way of configuring \pkgname  {bytefield}'s parameters\pfill 
+		\hdpindex{}{43}
+  \item v2.1\efill 
+ \subitem \verb*+\\+:\ Augmented the definition of~\texttt  {\string\\} to accept an optional argument, just like in a \texttt  {tabular} environment\pfill 
+		\hdpindex{}{28}
+    \subitem General:\ Included in the documentation a variable-height memory-map example suggested by Martin Demling\pfill 
+		\hdpindex{}{21}
+    \subitem \verb*+\bf@parse@range+:\ Added code due to Renaud Pacalet for shifting the bit header by a distance corresponding to \texttt  {\string\bf@first@bit}, used for typesetting registers split across rows\pfill 
+		\hdpindex{}{33}
+    \subitem \verb*+\bitheader+:\ Changed the optional argument to accept \meta  {key}=\meta  {value} pairs instead of just ``\texttt  {l}'' and ``\texttt  {b}''\pfill 
+		\hdpindex{}{32}
+
+ \end{theglossary}

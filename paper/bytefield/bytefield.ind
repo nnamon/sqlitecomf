@@ -1,0 +1,552 @@
+
+ \begin{theindex} 
+ \makeatletter\scan@allowedfalse
+{\bfseries\hfil Symbols\hfil}\nopagebreak
+
+  \item \verb*+\&+\pfill \hdclindex{153}{}{28}
+  \item \verb*+\@currenvir+\pfill \hdclindex{482}{main}{289}, 
+		\hdclindex{534}{main}{333}
+  \item \verb*+\\+\pfill \hdclindex{151}{}{26}, 
+		\hdclindex{159}{main}{34}
+  \item \verb*+\{+\iffalse}\fi\pfill \hdclindex{392}{}{216}
+  \item \iffalse{\fi\verb*+\}+\pfill \hdclindex{393}{}{217}
+
+  \indexspace
+{\bfseries\hfil A\hfil}\nopagebreak
+
+  \item \verb*+\allocationnumber+\pfill \hdclindex{115}{main}{3}
+  \item \verb*+\amp+\pfill \hdclindex{145}{main}{23}, 
+		\hdclindex{163}{}{37}, \hdclindex{164}{}{38}, 
+		\hdclindex{165}{}{39}, \hdclindex{167}{}{41}
+  \item \verb*+\AtBeginDocument+\pfill \hdclindex{123}{}{9}
+
+  \indexspace
+{\bfseries\hfil B\hfil}\nopagebreak
+
+  \item \verb*+\bf@arg+\pfill \hdclindex{680}{}{433}, 
+		\hdclindex{681}{}{434}, \hdclindex{684}{}{437}
+  \item \verb*+\bf@auto+\pfill \hdclindex{626}{main}{397}
+  \item \verb*+\bf@big+\pfill \hdclindex{679}{}{432}, 
+		\hdclindex{684}{}{437}
+  \item \verb*+\bf@bit@endianness+\pfill \hdclindex{290}{main}{141}, 
+		\hdclindex{331}{}{172}, \hdclindex{366}{}{198}, 
+		\hdclindex{376}{}{208}, \hdclindex{682}{}{435}, 
+		\hdclindex{685}{}{438}
+  \item \verb*+\bf@bitformatting+\pfill \hdclindex{170}{main}{44}, 
+		\hdclindex{176}{}{47}, \hdclindex{300}{}{146}, 
+		\hdclindex{339}{}{180}, \hdclindex{631}{}{401}, 
+		\hdclindex{639}{}{407}
+  \item \verb*+\bf@bitheight+\pfill \hdclindex{177}{main}{48}, 
+		\hdclindex{188}{}{55}, \hdclindex{192}{}{58}, 
+		\hdclindex{637}{}{406}
+  \item \verb*+\bf@bitwidth+\pfill \hdclindex{174}{main}{46}, 
+		\hdclindex{186}{}{53}, \hdclindex{191}{}{57}, 
+		\hdclindex{274}{}{125}, \hdclindex{299}{}{145}, 
+		\hdclindex{333}{}{174}, \hdclindex{335}{}{176}, 
+		\hdclindex{338}{}{179}, \hdclindex{520}{}{319}, 
+		\hdclindex{631}{}{401}, \hdclindex{633}{}{403}
+  \item \verb*+\bf@boxformatting+\pfill \hdclindex{172}{main}{45}, 
+		\hdclindex{215}{}{74}, \hdclindex{641}{}{408}
+  \item \verb*+\bf@bw@arg+\pfill \hdclindex{625}{main}{397}
+  \item \verb*+\bf@bytefieldsetup+\pfill \hdclindex{149}{}{24}, 
+		\hdclindex{700}{main}{451}, \hdclindex{718}{}{462}
+  \item \verb*+\bf@enter@compatibility@mode@i+\pfill 
+		\hdclindex{543}{main}{338}, \hdclindex{706}{}{453}
+  \item \verb*+\bf@first@bit+\pfill \hdclindex{293}{main}{142}, 
+		\hdclindex{333}{}{174}, \hdclindex{335}{}{176}, 
+		\hdclindex{698}{}{450}
+  \item \verb*+\bf@leftcurly+\pfill \hdclindex{390}{main}{216}, 
+		\hdclindex{436}{}{250}, \hdclindex{644}{}{409}
+  \item \verb*+\bf@leftcurlyshrinkage+\pfill \hdclindex{378}{main}{210}, 
+		\hdclindex{427}{}{241}, \hdclindex{431}{}{245}, 
+		\hdclindex{668}{}{423}, \hdclindex{671}{}{426}
+  \item \verb*+\bf@leftcurlyspace+\pfill \hdclindex{382}{main}{212}, 
+		\hdclindex{505}{}{305}, \hdclindex{532}{}{331}, 
+		\hdclindex{650}{}{411}, \hdclindex{653}{}{414}
+  \item \verb*+\bf@leftlabelspace+\pfill \hdclindex{384}{main}{212}, 
+		\hdclindex{507}{}{307}, \hdclindex{530}{}{329}, 
+		\hdclindex{659}{}{417}, \hdclindex{662}{}{420}
+  \item \verb*+\bf@little+\pfill \hdclindex{678}{}{431}, 
+		\hdclindex{681}{}{434}
+  \item \verb*+\bf@newdimen+\pfill \hdclindex{114}{main}{3}, 
+		\hdclindex{122}{main}{9}, \hdclindex{205}{}{64}, 
+		\hdclindex{206}{}{65}, \hdclindex{207}{}{66}, 
+		\hdclindex{208}{}{67}, \hdclindex{403}{}{221}, 
+		\hdclindex{405}{}{223}, \hdclindex{407}{}{225}, 
+		\hdclindex{426}{}{240}, \hdclindex{428}{}{242}, 
+		\hdclindex{430}{}{244}, \hdclindex{467}{}{274}, 
+		\hdclindex{518}{}{317}
+  \item \verb*+\bf@package@options+\pfill \hdclindex{707}{main}{454}
+  \item \verb*+\bf@parse@bitbox@arg+\pfill \hdclindex{187}{}{54}, 
+		\hdclindex{193}{}{59}, \hdclindex{242}{main}{97}, 
+		\hdclindex{298}{}{144}
+  \item \verb*+\bf@parse@bitbox@sides+\pfill \hdclindex{248}{}{102}, 
+		\hdclindex{249}{main}{103}
+  \item \verb*+\bf@parse@endianness+\pfill \hdclindex{675}{main}{429}
+  \item \verb*+\bf@parse@range+\pfill \hdclindex{316}{}{161}, 
+		\hdclindex{325}{main}{167}
+  \item \verb*+\bf@parse@range@list+\pfill \hdclindex{305}{}{151}, 
+		\hdclindex{312}{main}{158}
+  \item \verb*+\bf@process@bitheader@opts+\pfill \hdclindex{302}{}{148}, 
+		\hdclindex{342}{main}{183}
+  \item \verb*+\bf@rightcurly+\pfill \hdclindex{391}{main}{216}, 
+		\hdclindex{416}{}{234}, \hdclindex{645}{}{410}
+  \item \verb*+\bf@rightcurlyshrinkage+\pfill 
+		\hdclindex{379}{main}{210}, \hdclindex{404}{}{222}, 
+		\hdclindex{408}{}{226}, \hdclindex{669}{}{424}, 
+		\hdclindex{672}{}{427}
+  \item \verb*+\bf@rightcurlyspace+\pfill \hdclindex{383}{main}{212}, 
+		\hdclindex{469}{}{276}, \hdclindex{475}{}{282}, 
+		\hdclindex{651}{}{412}, \hdclindex{654}{}{415}
+  \item \verb*+\bf@rightlabelspace+\pfill \hdclindex{385}{main}{212}, 
+		\hdclindex{471}{}{278}, \hdclindex{477}{}{284}, 
+		\hdclindex{660}{}{418}, \hdclindex{663}{}{421}
+  \item \verb*+\bitbox+\pfill \hdclindex{13}{usage}{4}, 
+		\hdclindex{184}{main}{52}
+  \item \verb*+\bitbox@bottomfalse+\pfill \hdclindex{245}{}{99}
+  \item \verb*+\bitbox@bottomtrue+\pfill \hdclindex{257}{}{110}
+  \item \verb*+\bitbox@leftfalse+\pfill \hdclindex{246}{}{100}
+  \item \verb*+\bitbox@lefttrue+\pfill \hdclindex{260}{}{113}
+  \item \verb*+\bitbox@rightfalse+\pfill \hdclindex{247}{}{101}
+  \item \verb*+\bitbox@righttrue+\pfill \hdclindex{263}{}{116}
+  \item \verb*+\bitbox@topfalse+\pfill \hdclindex{244}{}{98}
+  \item \verb*+\bitbox@toptrue+\pfill \hdclindex{254}{}{107}
+  \item {\sffamily bitformatting} (option)\pfill \hdpindex{usage}{8, 9}, 
+		\hdpindex{usage}{15}
+  \item \verb*+\bitheader+\pfill \hdclindex{18}{usage}{4}, 
+		\hdclindex{295}{main}{143}, \hdclindex{361}{}{193}, 
+		\hdclindex{371}{}{203}
+  \item {\sffamily bitheight} (option)\pfill \hdpindex{usage}{8}
+  \item \verb*+\bits@wide+\pfill \hdclindex{143}{main}{23}, 
+		\hdclindex{191}{}{57}, \hdclindex{274}{}{125}, 
+		\hdclindex{299}{}{145}, \hdclindex{333}{}{174}, 
+		\hdclindex{520}{}{319}
+  \item \verb*+\bitwidth+\pfill \hdclindex{99}{usage}{25}, 
+		\hdclindex{105}{usage}{26}, \hdclindex{546}{main}{339}, 
+		\hdclindex{569}{}{354}
+  \item {\sffamily bitwidth} (option)\pfill \hdpindex{usage}{8, 9}, 
+		\hdpindex{usage}{19}, \hdpindex{usage}{25}
+  \item {\sffamily boxformatting} (option)\pfill \hdpindex{usage}{8}, 
+		\hdpindex{usage}{10}, \hdpindex{usage}{17}
+  \item \verb*+\bytefield+\pfill \hdclindex{565}{}{350}
+  \item {\sffamily bytefield} (package)\pfill \hdpindex{usage}{1--4}, 
+		\hdpindex{usage}{7}, \hdpindex{usage}{13, 14}, 
+		\hdpindex{usage}{17}, \hdpindex{usage}{19, 20}, 
+		\hdpindex{usage}{22--24}, \hdpindex{usage}{26, 27}, 
+		\hdpindex{usage}{32, 33}, \hdpindex{usage}{39}, 
+		\hdpindex{usage}{41}, \hdpindex{usage}{43, 44}
+  \item {\ttfamily bytefield} (environment)\pfill 
+		\hdclindex{11}{usage}{3}, \hdclindex{142}{main}{23}, 
+		\hdclindex{564}{main}{350}
+  \item \verb*+\bytefield@height+\pfill \hdclindex{130}{main}{16}, 
+		\hdclindex{140}{}{21}, \hdclindex{155}{}{30}, 
+		\hdclindex{453}{}{262}, \hdclindex{459}{}{267}, 
+		\hdclindex{498}{}{298}, \hdclindex{517}{}{316}
+  \item \verb*+\bytefield@height@increment+\pfill \hdclindex{137}{}{18}, 
+		\hdclindex{139}{}{20}, \hdclindex{140}{}{21}
+  \item \verb*+\bytefieldsetup+\pfill \hdclindex{23}{usage}{7}, 
+		\hdclindex{585}{main}{366}, \hdclindex{615}{}{389}, 
+		\hdclindex{699}{main}{451}
+  \item \verb*+\byteheight+\pfill \hdclindex{100}{usage}{25}, 
+		\hdclindex{547}{main}{339}, \hdclindex{570}{}{355}
+
+  \indexspace
+{\bfseries\hfil C\hfil}\nopagebreak
+
+  \item {\sffamily calc} (package)\pfill \hdpindex{usage}{27}
+  \item \verb*+\centering+\pfill \hdclindex{173}{}{45}
+  \item {\sffamily color} (package)\pfill \hdpindex{usage}{16}
+  \item {\sffamily compat1} (option)\pfill \hdpindex{usage}{33}
+  \item \verb*+\counting@wordsfalse+\pfill \hdclindex{231}{}{90}, 
+		\hdclindex{288}{}{139}, \hdclindex{309}{}{155}
+  \item \verb*+\counting@wordstrue+\pfill \hdclindex{157}{}{32}, 
+		\hdclindex{164}{}{38}
+  \item \verb*+\curly@box+\pfill \hdclindex{394}{main}{218}, 
+		\hdclindex{466}{}{273}, \hdclindex{470}{}{277}, 
+		\hdclindex{476}{}{283}, \hdclindex{503}{}{303}, 
+		\hdclindex{506}{}{306}, \hdclindex{525}{}{324}, 
+		\hdclindex{531}{}{330}
+  \item \verb*+\curly@height+\pfill \hdclindex{397}{main}{219}, 
+		\hdclindex{421}{main}{238}
+  \item \verb*+\curly@shift+\pfill \hdclindex{399}{main}{219}, 
+		\hdclindex{423}{main}{238}
+  \item \verb*+\curlyshrinkage+\pfill \hdclindex{104}{usage}{25}, 
+		\hdclindex{550}{main}{339}, \hdclindex{573}{}{358}
+  \item {\sffamily curlyshrinkage} (option)\pfill \hdpindex{usage}{12}
+  \item \verb*+\curlyspace+\pfill \hdclindex{102}{usage}{25}, 
+		\hdclindex{548}{main}{339}, \hdclindex{571}{}{356}
+  \item {\sffamily curlyspace} (option)\pfill \hdpindex{usage}{11}, 
+		\hdpindex{usage}{42}
+  \item \verb*+\CurrentOption+\pfill \hdclindex{713}{}{457}
+
+  \indexspace
+{\bfseries\hfil D\hfil}\nopagebreak
+
+  \item \verb*+\DeclareOption+\pfill \hdclindex{706}{}{453}, 
+		\hdclindex{711}{}{455}
+  \item \verb*+\define@key+\pfill \hdclindex{358}{}{190}, 
+		\hdclindex{368}{}{200}, \hdclindex{627}{}{397}, 
+		\hdclindex{637}{}{406}, \hdclindex{639}{}{407}, 
+		\hdclindex{641}{}{408}, \hdclindex{644}{}{409}, 
+		\hdclindex{645}{}{410}, \hdclindex{650}{}{411}, 
+		\hdclindex{651}{}{412}, \hdclindex{652}{}{413}, 
+		\hdclindex{659}{}{417}, \hdclindex{660}{}{418}, 
+		\hdclindex{661}{}{419}, \hdclindex{668}{}{423}, 
+		\hdclindex{669}{}{424}, \hdclindex{670}{}{425}, 
+		\hdclindex{676}{}{429}, \hdclindex{698}{}{450}
+  \item \verb*+\depth+\pfill \hdclindex{199}{main}{63}
+  \item \verb*+\draw@bit@picture+\pfill \hdclindex{188}{}{55}, 
+		\hdclindex{194}{}{60}, \hdclindex{195}{main}{61}
+
+  \indexspace
+{\bfseries\hfil E\hfil}\nopagebreak
+
+  \item \verb*+\endbytefield+\pfill \hdclindex{566}{}{351}
+  \item {\sffamily endianness} (option)\pfill \hdpindex{usage}{5}, 
+		\hdpindex{usage}{8}
+  \item \verb*+\endnewbytefield+\pfill \hdclindex{564}{main}{350}
+  \item \verb*+\endwordgroupl+\pfill \hdclindex{98}{usage}{25}, 
+		\hdclindex{580}{main}{362}, \hdclindex{602}{main}{379}
+  \item \verb*+\endwordgroupr+\pfill \hdclindex{96}{usage}{25}, 
+		\hdclindex{578}{main}{362}, \hdclindex{600}{main}{379}
+  \item \verb*+\entire@bytefield@picture+\pfill 
+		\hdclindex{141}{main}{22}, \hdclindex{158}{}{33}, 
+		\hdclindex{169}{}{43}
+  \item environments:\efill 
+ \subitem {\ttfamily bytefield}\pfill \hdclindex{11}{usage}{3}, 
+		\hdclindex{142}{main}{23}, \hdclindex{564}{main}{350}
+    \subitem {\ttfamily leftwordgroup}\pfill \hdclindex{21}{usage}{5}, 
+		\hdclindex{493}{main}{296}
+    \subitem {\ttfamily rightwordgroup}\pfill \hdclindex{20}{usage}{5}, 
+		\hdclindex{448}{main}{260}
+
+  \indexspace
+{\bfseries\hfil F\hfil}\nopagebreak
+
+  \item \verb*+\fontdimen+\pfill \hdclindex{411}{}{229}, 
+		\hdclindex{412}{}{230}, \hdclindex{417}{}{235}, 
+		\hdclindex{434}{}{248}, \hdclindex{435}{}{249}, 
+		\hdclindex{440}{}{254}
+
+  \indexspace
+{\bfseries\hfil G\hfil}\nopagebreak
+
+  \item \verb*+\g@addto@macro+\pfill \hdclindex{713}{}{457}
+  \item {\sffamily graphicx} (package)\pfill \hdpindex{usage}{15}
+
+  \indexspace
+{\bfseries\hfil H\hfil}\nopagebreak
+
+  \item \verb*+\half@curly@height+\pfill \hdclindex{398}{main}{219}, 
+		\hdclindex{422}{main}{238}
+  \item \verb*+\header@val+\pfill \hdclindex{320}{main}{164}
+  \item \verb*+\header@xpos+\pfill \hdclindex{319}{main}{164}, 
+		\hdclindex{332}{}{173}, \hdclindex{335}{}{176}, 
+		\hdclindex{337}{}{178}
+  \item \verb*+\height+\pfill \hdclindex{198}{main}{63}
+  \item \verb*+\heightof+\pfill \hdclindex{300}{}{146}
+  \item \verb*+\heightunits+\pfill \hdclindex{203}{main}{63}
+
+  \indexspace
+{\bfseries\hfil I\hfil}\nopagebreak
+
+  \item \verb*+\ialign+\pfill \hdclindex{165}{}{39}
+  \item \verb*+\ifbitbox@bottom+\pfill \hdclindex{219}{}{78}, 
+		\hdclindex{235}{main}{93}
+  \item \verb*+\ifbitbox@left+\pfill \hdclindex{222}{}{81}, 
+		\hdclindex{236}{main}{93}
+  \item \verb*+\ifbitbox@right+\pfill \hdclindex{225}{}{84}, 
+		\hdclindex{237}{main}{93}
+  \item \verb*+\ifbitbox@top+\pfill \hdclindex{216}{}{75}, 
+		\hdclindex{234}{main}{93}
+  \item \verb*+\ifcounting@words+\pfill \hdclindex{131}{main}{16}, 
+		\hdclindex{229}{}{88}, \hdclindex{286}{}{137}, 
+		\hdclindex{307}{}{153}
+  \item \verb*+\inc@bytefield@height+\pfill \hdclindex{134}{main}{18}, 
+		\hdclindex{230}{}{89}, \hdclindex{287}{}{138}, 
+		\hdclindex{308}{}{154}
+
+  \indexspace
+{\bfseries\hfil K\hfil}\nopagebreak
+
+  \item \verb*+\KV@bitheader@b+\pfill \hdclindex{349}{}{185}, 
+		\hdclindex{355}{main}{190}
+  \item \verb*+\KV@bitheader@b@default+\pfill \hdclindex{351}{}{187}
+  \item \verb*+\KV@bitheader@l+\pfill \hdclindex{348}{}{184}, 
+		\hdclindex{354}{main}{190}
+  \item \verb*+\KV@bitheader@l@default+\pfill \hdclindex{350}{}{186}
+  \item \verb*+\KV@bytefield@b+\pfill \hdclindex{344}{main}{183}
+  \item \verb*+\KV@bytefield@b@default+\pfill 
+		\hdclindex{346}{main}{183}
+  \item \verb*+\KV@bytefield@bf@bitheight+\pfill 
+		\hdclindex{636}{main}{406}
+  \item \verb*+\KV@bytefield@bitformatting+\pfill 
+		\hdclindex{638}{main}{407}
+  \item \verb*+\KV@bytefield@bitwidth+\pfill \hdclindex{624}{main}{397}
+  \item \verb*+\KV@bytefield@boxformatting+\pfill 
+		\hdclindex{640}{main}{408}
+  \item \verb*+\KV@bytefield@curlyshrinkage+\pfill 
+		\hdclindex{667}{main}{423}
+  \item \verb*+\KV@bytefield@curlyspace+\pfill 
+		\hdclindex{648}{main}{411}
+  \item \verb*+\KV@bytefield@endianness+\pfill 
+		\hdclindex{674}{main}{429}
+  \item \verb*+\KV@bytefield@l+\pfill \hdclindex{343}{main}{183}
+  \item \verb*+\KV@bytefield@l@default+\pfill 
+		\hdclindex{345}{main}{183}
+  \item \verb*+\KV@bytefield@labelspace+\pfill 
+		\hdclindex{658}{main}{417}
+  \item \verb*+\KV@bytefield@leftcurly+\pfill 
+		\hdclindex{642}{main}{409}
+  \item \verb*+\KV@bytefield@leftcurlyshrinkage+\pfill 
+		\hdclindex{665}{main}{423}
+  \item \verb*+\KV@bytefield@leftcurlyspace+\pfill 
+		\hdclindex{646}{main}{411}
+  \item \verb*+\KV@bytefield@leftlabelspace+\pfill 
+		\hdclindex{656}{main}{417}
+  \item \verb*+\KV@bytefield@lsb+\pfill \hdclindex{697}{main}{450}
+  \item \verb*+\KV@bytefield@rightcurly+\pfill 
+		\hdclindex{643}{main}{409}
+  \item \verb*+\KV@bytefield@rightcurlyshrinkage+\pfill 
+		\hdclindex{666}{main}{423}
+  \item \verb*+\KV@bytefield@rightcurlyspace+\pfill 
+		\hdclindex{647}{main}{411}
+  \item \verb*+\KV@bytefield@rightlabelspace+\pfill 
+		\hdclindex{657}{main}{417}
+
+  \indexspace
+{\bfseries\hfil L\hfil}\nopagebreak
+
+  \item \verb*+\label@box@height+\pfill \hdclindex{465}{}{272}, 
+		\hdclindex{466}{}{273}, \hdclindex{478}{}{285}, 
+		\hdclindex{524}{}{323}, \hdclindex{525}{}{324}, 
+		\hdclindex{528}{}{327}, \hdclindex{538}{main}{335}
+  \item \verb*+\label@box@width+\pfill \hdclindex{464}{}{271}, 
+		\hdclindex{472}{}{279}, \hdclindex{478}{}{285}, 
+		\hdclindex{502}{}{302}, \hdclindex{508}{}{308}, 
+		\hdclindex{523}{}{322}, \hdclindex{528}{}{327}, 
+		\hdclindex{537}{main}{335}
+  \item \verb*+\labelspace+\pfill \hdclindex{103}{usage}{25}, 
+		\hdclindex{549}{main}{339}, \hdclindex{572}{}{357}
+  \item {\sffamily leftcurly} (option)\pfill \hdpindex{usage}{8}, 
+		\hdpindex{usage}{10}, \hdpindex{usage}{12}
+  \item {\sffamily leftcurlyshrinkage} (option)\pfill 
+		\hdpindex{usage}{12}
+  \item {\sffamily leftcurlyspace} (option)\pfill \hdpindex{usage}{11}
+  \item {\ttfamily leftwordgroup} (environment)\pfill 
+		\hdclindex{21}{usage}{5}, \hdclindex{493}{main}{296}
+  \item \verb*+\line+\pfill \hdclindex{217}{}{76}, 
+		\hdclindex{220}{}{79}, \hdclindex{223}{}{82}, 
+		\hdclindex{226}{}{85}, \hdclindex{281}{}{132}, 
+		\hdclindex{282}{}{133}, \hdclindex{283}{}{134}, 
+		\hdclindex{284}{}{135}
+  \item \verb*+\locdimen+\pfill \hdclindex{127}{}{13}
+  \item {\sffamily lsb} (option)\pfill \hdpindex{usage}{12}, 
+		\hdpindex{usage}{14}, \hdpindex{usage}{32}
+
+  \indexspace
+{\bfseries\hfil M\hfil}\nopagebreak
+
+  \item \verb*+\make@lspace+\pfill \hdclindex{164}{}{38}, 
+		\hdclindex{492}{main}{295}, \hdclindex{510}{main}{310}
+  \item \verb*+\makebox+\pfill \hdclindex{204}{}{63}, 
+		\hdclindex{338}{}{179}, \hdclindex{478}{}{285}, 
+		\hdclindex{528}{}{327}
+  \item \verb*+\max@header@val+\pfill \hdclindex{321}{main}{164}
+
+  \indexspace
+{\bfseries\hfil N\hfil}\nopagebreak
+
+  \item \verb*+\newbytefield+\pfill \hdclindex{563}{main}{350}
+  \item \verb*+\next+\pfill \hdclindex{708}{main}{454}
+  \item \verb*+\num@high+\pfill \hdclindex{279}{}{130}, 
+		\hdclindex{283}{}{134}, \hdclindex{284}{}{135}
+  \item \verb*+\num@tall+\pfill \hdclindex{278}{}{129}, 
+		\hdclindex{280}{}{131}, \hdclindex{281}{}{132}, 
+		\hdclindex{284}{}{135}, \hdclindex{287}{}{138}
+  \item \verb*+\num@wide+\pfill \hdclindex{277}{}{128}, 
+		\hdclindex{280}{}{131}, \hdclindex{281}{}{132}, 
+		\hdclindex{282}{}{133}, \hdclindex{284}{}{135}
+
+  \indexspace
+{\bfseries\hfil O\hfil}\nopagebreak
+
+  \item \verb*+\old@axis+\pfill \hdclindex{400}{main}{219}, 
+		\hdclindex{434}{}{248}, \hdclindex{440}{}{254}
+  \item \verb*+\old@nl+\pfill \hdclindex{144}{main}{23}
+  \item \verb*+\openup+\pfill \hdclindex{154}{}{29}
+  \item options:\efill 
+ \subitem {\sffamily bitformatting}\pfill \hdpindex{usage}{8, 9}, 
+		\hdpindex{usage}{15}
+    \subitem {\sffamily bitheight}\pfill \hdpindex{usage}{8}
+    \subitem {\sffamily bitwidth}\pfill \hdpindex{usage}{8, 9}, 
+		\hdpindex{usage}{19}, \hdpindex{usage}{25}
+    \subitem {\sffamily boxformatting}\pfill \hdpindex{usage}{8}, 
+		\hdpindex{usage}{10}, \hdpindex{usage}{17}
+    \subitem {\sffamily compat1}\pfill \hdpindex{usage}{33}
+    \subitem {\sffamily curlyshrinkage}\pfill \hdpindex{usage}{12}
+    \subitem {\sffamily curlyspace}\pfill \hdpindex{usage}{11}, 
+		\hdpindex{usage}{42}
+    \subitem {\sffamily endianness}\pfill \hdpindex{usage}{5}, 
+		\hdpindex{usage}{8}
+    \subitem {\sffamily leftcurly}\pfill \hdpindex{usage}{8}, 
+		\hdpindex{usage}{10}, \hdpindex{usage}{12}
+    \subitem {\sffamily leftcurlyshrinkage}\pfill \hdpindex{usage}{12}
+    \subitem {\sffamily leftcurlyspace}\pfill \hdpindex{usage}{11}
+    \subitem {\sffamily lsb}\pfill \hdpindex{usage}{12}, 
+		\hdpindex{usage}{14}, \hdpindex{usage}{32}
+    \subitem {\sffamily rightcurly}\pfill \hdpindex{usage}{8}, 
+		\hdpindex{usage}{10}, \hdpindex{usage}{12}
+    \subitem {\sffamily rightcurlyshrinkage}\pfill \hdpindex{usage}{12}
+    \subitem {\sffamily rightcurlyspace}\pfill \hdpindex{usage}{11}
+
+  \indexspace
+{\bfseries\hfil P\hfil}\nopagebreak
+
+  \item \verb*+\PackageError+\pfill \hdclindex{587}{}{367}, 
+		\hdclindex{606}{}{380}, \hdclindex{687}{}{440}
+  \item \verb*+\PackageInfo+\pfill \hdclindex{552}{}{339}
+  \item packages:\efill 
+ \subitem {\sffamily bytefield}\pfill \hdpindex{usage}{1--4}, 
+		\hdpindex{usage}{7}, \hdpindex{usage}{13, 14}, 
+		\hdpindex{usage}{17}, \hdpindex{usage}{19, 20}, 
+		\hdpindex{usage}{22--24}, \hdpindex{usage}{26, 27}, 
+		\hdpindex{usage}{32, 33}, \hdpindex{usage}{39}, 
+		\hdpindex{usage}{41}, \hdpindex{usage}{43, 44}
+    \subitem {\sffamily calc}\pfill \hdpindex{usage}{27}
+    \subitem {\sffamily color}\pfill \hdpindex{usage}{16}
+    \subitem {\sffamily graphicx}\pfill \hdpindex{usage}{15}
+    \subitem {\sffamily register}\pfill \hdpindex{usage}{17}
+    \subitem {\sffamily rotating}\pfill \hdpindex{usage}{17}
+  \item \verb*+\PackageWarning+\pfill \hdclindex{360}{}{192}, 
+		\hdclindex{370}{}{202}
+  \item \verb*+\parbox+\pfill \hdclindex{204}{}{63}
+  \item \verb*+\ProcessOptions+\pfill \hdclindex{717}{}{461}
+  \item \verb*+\put+\pfill \hdclindex{204}{}{63}, \hdclindex{217}{}{76}, 
+		\hdclindex{220}{}{79}, \hdclindex{223}{}{82}, 
+		\hdclindex{226}{}{85}, \hdclindex{281}{}{132}, 
+		\hdclindex{282}{}{133}, \hdclindex{283}{}{134}, 
+		\hdclindex{284}{}{135}, \hdclindex{337}{}{178}, 
+		\hdclindex{474}{}{281}, \hdclindex{527}{}{326}
+
+  \indexspace
+{\bfseries\hfil R\hfil}\nopagebreak
+
+  \item {\sffamily register} (package)\pfill \hdpindex{usage}{17}
+  \item \verb*+\RequirePackage+\pfill \hdclindex{112}{}{1}, 
+		\hdclindex{113}{}{2}
+  \item {\sffamily rightcurly} (option)\pfill \hdpindex{usage}{8}, 
+		\hdpindex{usage}{10}, \hdpindex{usage}{12}
+  \item {\sffamily rightcurlyshrinkage} (option)\pfill 
+		\hdpindex{usage}{12}
+  \item {\sffamily rightcurlyspace} (option)\pfill \hdpindex{usage}{11}
+  \item {\ttfamily rightwordgroup} (environment)\pfill 
+		\hdclindex{20}{usage}{5}, \hdclindex{448}{main}{260}
+  \item {\sffamily rotating} (package)\pfill \hdpindex{usage}{17}
+
+  \indexspace
+{\bfseries\hfil S\hfil}\nopagebreak
+
+  \item \verb*+\setkeys+\pfill \hdclindex{352}{}{188}, 
+		\hdclindex{703}{}{451}
+  \item \verb*+\show@wordlabelr+\pfill \hdclindex{163}{}{37}, 
+		\hdclindex{167}{}{41}, \hdclindex{443}{main}{257}, 
+		\hdclindex{460}{main}{268}
+  \item \verb*+\skippedwords+\pfill \hdclindex{22}{usage}{7}, 
+		\hdclindex{272}{main}{124}
+  \item \verb*+\starting@point+\pfill \hdclindex{518}{}{317}, 
+		\hdclindex{519}{}{318}, \hdclindex{527}{}{326}
+  \item \verb*+\store@lcurly+\pfill \hdclindex{420}{main}{238}, 
+		\hdclindex{503}{}{303}, \hdclindex{525}{}{324}
+  \item \verb*+\store@rcurly+\pfill \hdclindex{396}{main}{219}, 
+		\hdclindex{466}{}{273}
+  \item \verb*+\strip@pt+\pfill \hdclindex{188}{}{55}, 
+		\hdclindex{194}{}{60}, \hdclindex{277}{}{128}, 
+		\hdclindex{278}{}{129}, \hdclindex{279}{}{130}, 
+		\hdclindex{303}{}{149}, \hdclindex{304}{}{150}, 
+		\hdclindex{308}{}{154}, \hdclindex{337}{}{178}, 
+		\hdclindex{338}{}{179}, \hdclindex{473}{}{280}, 
+		\hdclindex{478}{}{285}, \hdclindex{527}{}{326}, 
+		\hdclindex{528}{}{327}
+
+  \indexspace
+{\bfseries\hfil T\hfil}\nopagebreak
+
+  \item \verb*+\textfont+\pfill \hdclindex{411}{}{229}, 
+		\hdclindex{412}{}{230}, \hdclindex{417}{}{235}, 
+		\hdclindex{434}{}{248}, \hdclindex{435}{}{249}, 
+		\hdclindex{440}{}{254}
+  \item \verb*+\theheader@val+\pfill \hdclindex{339}{}{180}
+  \item \verb*+\tiny+\pfill \hdclindex{171}{}{44}, 
+		\hdclindex{558}{}{345}
+  \item \verb*+\total@box@width+\pfill \hdclindex{467}{}{274}, 
+		\hdclindex{468}{}{275}, \hdclindex{473}{}{280}, 
+		\hdclindex{490}{main}{294}
+  \item \verb*+\total@lbox@width+\pfill \hdclindex{491}{}{294}, 
+		\hdclindex{504}{}{304}, \hdclindex{509}{}{309}, 
+		\hdclindex{512}{}{311}, \hdclindex{520}{}{319}
+  \item \verb*+\totalheight+\pfill \hdclindex{200}{main}{63}
+
+  \indexspace
+{\bfseries\hfil U\hfil}\nopagebreak
+
+  \item \verb*+\unitlength+\pfill \hdclindex{156}{}{31}, 
+		\hdclindex{204}{}{63}, \hdclindex{209}{}{68}, 
+		\hdclindex{211}{}{70}, \hdclindex{212}{}{71}, 
+		\hdclindex{230}{}{89}, \hdclindex{287}{}{138}, 
+		\hdclindex{308}{}{154}
+  \item \verb*+\units@high+\pfill \hdclindex{270}{main}{123}, 
+		\hdclindex{275}{}{126}, \hdclindex{276}{}{127}, 
+		\hdclindex{279}{}{130}, \hdclindex{301}{}{147}, 
+		\hdclindex{304}{}{150}
+  \item \verb*+\units@tall+\pfill \hdclindex{181}{main}{50}, 
+		\hdclindex{192}{}{58}, \hdclindex{194}{}{60}, 
+		\hdclindex{276}{}{127}, \hdclindex{278}{}{129}, 
+		\hdclindex{300}{}{146}, \hdclindex{301}{}{147}, 
+		\hdclindex{303}{}{149}, \hdclindex{308}{}{154}, 
+		\hdclindex{338}{}{179}
+  \item \verb*+\units@wide+\pfill \hdclindex{180}{main}{50}, 
+		\hdclindex{186}{}{53}, \hdclindex{188}{}{55}, 
+		\hdclindex{191}{}{57}, \hdclindex{194}{}{60}, 
+		\hdclindex{274}{}{125}, \hdclindex{275}{}{126}, 
+		\hdclindex{277}{}{128}, \hdclindex{299}{}{145}, 
+		\hdclindex{303}{}{149}
+
+  \indexspace
+{\bfseries\hfil V\hfil}\nopagebreak
+
+  \item \verb*+\vrule+\pfill \hdclindex{414}{}{232}, 
+		\hdclindex{437}{}{251}
+
+  \indexspace
+{\bfseries\hfil W\hfil}\nopagebreak
+
+  \item \verb*+\width+\pfill \hdclindex{201}{main}{63}
+  \item \verb*+\widthof+\pfill \hdclindex{470}{}{277}, 
+		\hdclindex{506}{}{306}
+  \item \verb*+\widthunits+\pfill \hdclindex{202}{main}{63}
+  \item \verb*+\word@label@box+\pfill \hdclindex{462}{}{269}, 
+		\hdclindex{464}{}{271}, \hdclindex{479}{}{286}, 
+		\hdclindex{500}{}{300}, \hdclindex{502}{}{302}, 
+		\hdclindex{521}{}{320}, \hdclindex{523}{}{322}, 
+		\hdclindex{529}{}{328}, \hdclindex{539}{main}{335}
+  \item \verb*+\wordbox+\pfill \hdclindex{14}{usage}{4}, 
+		\hdclindex{189}{main}{56}
+  \item \verb*+\wordgroupl+\pfill \hdclindex{97}{usage}{25}, 
+		\hdclindex{579}{main}{362}, \hdclindex{601}{main}{379}
+  \item \verb*+\wordgroupr+\pfill \hdclindex{95}{usage}{25}, 
+		\hdclindex{577}{main}{362}, \hdclindex{599}{main}{379}
+  \item \verb*+\wordlabell@end+\pfill \hdclindex{487}{main}{292}, 
+		\hdclindex{517}{}{316}, \hdclindex{524}{}{323}
+  \item \verb*+\wordlabell@start+\pfill \hdclindex{486}{main}{292}, 
+		\hdclindex{496}{main}{298}, \hdclindex{524}{}{323}
+  \item \verb*+\wordlabell@text+\pfill \hdclindex{497}{main}{298}, 
+		\hdclindex{501}{}{301}, \hdclindex{522}{}{321}
+  \item \verb*+\wordlabelr@end+\pfill \hdclindex{446}{main}{258}, 
+		\hdclindex{457}{main}{266}, \hdclindex{465}{}{272}
+  \item \verb*+\wordlabelr@start+\pfill \hdclindex{445}{main}{258}, 
+		\hdclindex{451}{main}{262}, \hdclindex{465}{}{272}
+  \item \verb*+\wordlabelr@text+\pfill \hdclindex{452}{main}{262}, 
+		\hdclindex{463}{}{270}
+
+ \end{theindex}

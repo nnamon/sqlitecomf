@@ -1,0 +1,16 @@
+\glossaryentry{v1.0> =General:>Initial version|hdpindex{}}{1}
+\glossaryentry{v1.1> =General:>Restructured the \texttt  {.dtx} file|hdpindex{}}{1}
+\glossaryentry{v1.4> =General:>Made assignments to \cs  {counting@words} global to prevent vertical-spacing problems with back-to-back word groups (bug fix due to Steven R. King)|hdpindex{}}{1}
+\glossaryentry{v1.4> =General:>Split \cs  {curlyspace}, \cs  {labelspace}, and \cs  {curlyshrinkage} into \texttt  {left} and \texttt  {right} versions|hdpindex{}}{1}
+\glossaryentry{v2.0> =General:>Made a number of non-backwards-compatible changes, including replacing \cs  {wordgroupr} and \cs  {endwordgroupr} with a \texttt  {rightwordgroup} environment and \cs  {wordgroupl} and \cs  {endwordgroupl} with a \texttt  {leftwordgroup} environment and also replacing a slew of user-visible lengths and macros with a single \cs  {bytefieldsetup} macro|hdpindex{}}{1}
+\glossaryentry{v2.1> =General:>Included in the documentation a variable-height memory-map example suggested by Martin Demling|hdpindex{}}{21}
+\glossaryentry{v1.2a> =General:>Specified an explicit package date when loading the \pkgname  {calc} package to avoid loading an outdated version. Thanks to Kevin Quick for discovering that outdated versions of \pkgname  {calc} are still being included in T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {} distributions.|hdpindex{}}{26}
+\glossaryentry{v1.1>allocationnumber=\verb!*+\allocationnumber+:>Bug fix: Added \cs  {bf@newdimen} to greatly reduce the likelihood of ``\texttt  {No room for a new \cs  {dimen}}'' errors (reported by Vitaly A. Repin)|hdpindex{}}{26}
+\glossaryentry{v1.3>bf@newdimen=\verb!*+\bf@newdimen+:>Added support for $\varepsilon $-T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m 's larger local \meta  {dimen} pool (code provided by Heiko Oberdiek)|hdpindex{}}{27}
+\glossaryentry{v2.1>\=\verb!*+\\+:>Augmented the definition of~\texttt  {\string\\} to accept an optional argument, just like in a \texttt  {tabular} environment|hdpindex{}}{28}
+\glossaryentry{v1.4>bf@bitformatting=\verb!*+\bf@bitformatting+:>Introduced this macro at Steven R. King's request to enable users to alter the bit header's font size|hdpindex{}}{28}
+\glossaryentry{v2.1>bitheader=\verb!*+\bitheader+:>Changed the optional argument to accept \meta  {key}!=\meta  {value} pairs instead of just ``\texttt  {l}'' and ``\texttt  {b}''|hdpindex{}}{32}
+\glossaryentry{v1.1>bf@parse@range@list=\verb!*+\bf@parse@range@list+:>Bug fix: Swapped order of arguments to \texttt  {\bslash ifx} test (suggested by Hans-Joachim Widmaier)|hdpindex{}}{32}
+\glossaryentry{v2.1>bf@parse@range=\verb!*+\bf@parse@range+:>Added code due to Renaud Pacalet for shifting the bit header by a distance corresponding to \texttt  {\string\bf@first@bit}, used for typesetting registers split across rows|hdpindex{}}{33}
+\glossaryentry{v1.2>curly@box=\verb!*+\curly@box+:>Bug fix: Defined \cs  {curly@box} globally (suggested by Stefan Ulrich)|hdpindex{}}{34}
+\glossaryentry{v2.0>bytefieldsetup=\verb!*+\bytefieldsetup+:>Introduced this macro to provide a more convenient way of configuring \pkgname  {bytefield}'s parameters|hdpindex{}}{43}

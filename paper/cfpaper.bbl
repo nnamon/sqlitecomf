@@ -1,0 +1,40 @@
+\begin{thebibliography}{10}
+
+\bibitem{1}
+I.~Pooters, P.~Arends, and S.~Moorrees, ``Extracting sqlite records: Carving,
+  parsing and matching,'' {\em FOX-IT}, July 2011.
+
+\bibitem{2}
+D.~R. Hipp, ``Sqlite's use of temporary disk files,'' {\em SQLite
+  Documentation}, 2012.
+
+\bibitem{3}
+D.~R. Hipp, ``The sqlite database file format,'' {\em SQLite Documentation},
+  2012.
+
+\bibitem{4}
+D.~R. Hipp, ``Requirements for the sqlite database file format,'' {\em SQLite
+  Documentation}, 2012.
+
+\bibitem{5}
+RaySprite, ``Sqlite database file format,'' {\em RaySprite}, 2012.
+
+\bibitem{6}
+D.~R. Hipp, ``Well-known users of sqlite,'' {\em SQLite Documentation}, 2012.
+
+\bibitem{7}
+R.~Drinkwater, ``Carving sqlite databases from unallocated clusters,'' {\em
+  Forensics from the sausage factory}, Apr. 2011.
+
+\bibitem{8}
+D.~Eindbazen, ``Codegate 2012 – forensics 300,'' {\em De Eindbazen}, Feb.
+  2012.
+
+\bibitem{9}
+FLOSS, ``Floss weekly 26,'' {\em FLOSS}, Mar. 2008.
+
+\bibitem{owens2006definitive}
+M.~Owens, {\em The Definitive Guide to SQLite}.
+\newblock Definitive Guide, Apress, 2006.
+
+\end{thebibliography}

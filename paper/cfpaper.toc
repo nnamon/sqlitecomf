@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}Introduction}{4}
+\contentsline {subsection}{\numberline {1.1}Overview}{4}
+\contentsline {subsection}{\numberline {1.2}Introduction to SQLite}{4}
+\contentsline {subsection}{\numberline {1.3}Motivations}{4}
+\contentsline {subsection}{\numberline {1.4}Summary of Conclusions}{5}
+\contentsline {section}{\numberline {2}SQLite File Format}{5}
+\contentsline {subsection}{\numberline {2.1}SQLite Header}{5}
+\contentsline {subsection}{\numberline {2.2}Pages}{6}
+\contentsline {subsubsection}{\numberline {2.2.1}Page Header}{7}
+\contentsline {subsubsection}{\numberline {2.2.2}Freeblock}{7}
+\contentsline {subsubsection}{\numberline {2.2.3}Cell Format}{8}
+\contentsline {subsubsection}{\numberline {2.2.4}Cell Payloads or Records}{8}
+\contentsline {subsubsection}{\numberline {2.2.5}Overflow Pages}{9}
+\contentsline {subsection}{\numberline {2.3}Variable Length Integers}{9}
+\contentsline {section}{\numberline {3}Carving}{10}
+\contentsline {subsection}{\numberline {3.1}Carving Sources}{10}
+\contentsline {subsection}{\numberline {3.2}Abstract of Carving Procedure}{10}
+\contentsline {subsection}{\numberline {3.3}Identifying a SQLite Database}{11}
+\contentsline {subsection}{\numberline {3.4}Identifying Leaf Table B-Tree Pages}{12}
+\contentsline {subsection}{\numberline {3.5}Identifying and Carving Cells from Pages}{12}
+\contentsline {subsection}{\numberline {3.6}Carving and Parsing Records}{13}
+\contentsline {section}{\numberline {4}Applications and Computer Forensics}{13}
+\contentsline {subsection}{\numberline {4.1}Challenges and Asides}{14}
+\contentsline {section}{\numberline {5}Thoughts}{14}
+\contentsline {subsection}{\numberline {5.1}Ku Wee Kiat}{14}
+\contentsline {paragraph}{Tasks Allocated}{15}
+\contentsline {subsection}{\numberline {5.2}Jeremy Heng}{15}
+\contentsline {paragraph}{Tasks Allocated}{15}
+\contentsline {section}{\numberline {A}Test SQLite Database}{16}
+\contentsline {section}{\numberline {B}Variable Length Integer Decoder}{16}
+\contentsline {section}{\numberline {C}Reading pages from SQLite database}{17}
+\contentsline {section}{\numberline {D}Reading cells}{19}
